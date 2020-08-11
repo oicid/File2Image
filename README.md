@@ -1,7 +1,7 @@
 # File2Image
-Convert any binary file into an image. 
+Convert any binary file into an image (using Python 3.8 on Windows 10). 
 
-把任意二进制文件转换为一张图片。
+把任意二进制文件转换为一张图片（测试环境为 Python 3.8 和 Windows 10）。
 
 ## file2img_demo.py
 This is a demo for converting files into RGB PNG images. Users should customise the code to meet their needs.
