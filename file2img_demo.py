@@ -13,9 +13,7 @@ logging.info(f'File size of {original_file}: {file_size}')
 
 # Demo: assume the size of new image is 512 * 512
 width = 256
-height = (file_size // 3) // width
-if file_size % width:
-    height += 1
+height = (file_size // 3) // width + 1
 logging.info(f"Size of image: {width} in width, {height} in height")
 
 # Set initial pixel as 0 (white)
