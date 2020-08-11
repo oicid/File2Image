@@ -22,9 +22,9 @@ In this demo, images are recovered to the original files. Also, further developm
 `recovery_img` 是由文件转换的图片，`recovery_file` 是从图片中恢复的文件。这里使用 SHA256 来检验恢复是否成功。
 
 ## dcx.pdf
-Demo. The file to be converted into an image.
+Demo. The file to be converted into an image. (Photos in pdf are [Ding Chengxin](https://www.weibo.com/u/5781292544).)
 
-样例。将转换为图片的文件。
+样例。将转换为图片的文件。（文中的照片是[丁程鑫](https://www.weibo.com/u/5781292544) 。）
 
 ## dcx2.png
 Demo. The output of `file2img_demo.py` and input of `image2file_demo.py`.
